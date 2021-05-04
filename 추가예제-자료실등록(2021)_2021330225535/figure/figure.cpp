@@ -31,7 +31,7 @@ GLUquadricObj *t, *h, *lua, *lla, *rua, *rla, *lll, *rll, *rul, *lul;
 
 double size=1.0;
 
-void torso()
+void DrawTorso()
 {
    glPushMatrix();
    glRotatef(-90.0, 1.0, 0.0, 0.0);
@@ -39,7 +39,7 @@ void torso()
    glPopMatrix();
 }
 
-void head()
+void DrawHead()
 {
    glPushMatrix();
    glTranslatef(0.0, HEAD_HEIGHT,0.0);
@@ -48,7 +48,7 @@ void head()
    glPopMatrix();
 }
 
-void left_upper_arm()
+void RightUpperArm()
 {
    glPushMatrix();
    glRotatef(-90.0, 1.0, 0.0, 0.0);
@@ -56,7 +56,7 @@ void left_upper_arm()
    glPopMatrix();
 }
 
-void left_lower_arm()
+void RightLowerArm()
 {
    glPushMatrix();
    glRotatef(-90.0, 1.0, 0.0, 0.0);
@@ -64,7 +64,7 @@ void left_lower_arm()
    glPopMatrix();
 }
 
-void right_upper_arm()
+void LeftUpperArm()
 {
    glPushMatrix();
    glRotatef(-90.0, 1.0, 0.0, 0.0);
@@ -72,7 +72,7 @@ void right_upper_arm()
    glPopMatrix();
 }
 
-void right_lower_arm()
+void LeftLowerArm()
 {
    glPushMatrix();
    glRotatef(-90.0, 1.0, 0.0, 0.0);
@@ -80,7 +80,7 @@ void right_lower_arm()
    glPopMatrix();
 }
 
-void left_upper_leg()
+void RightUpperLeg()
 {
    glPushMatrix();
    glRotatef(-90.0, 1.0, 0.0, 0.0);
@@ -88,7 +88,7 @@ void left_upper_leg()
    glPopMatrix();
 }
 
-void left_lower_leg()
+void RightLowerLeg()
 {
    glPushMatrix();
    glRotatef(-90.0, 1.0, 0.0, 0.0);
@@ -104,7 +104,7 @@ void right_upper_leg()
    glPopMatrix();
 }
 
-void right_lower_leg()
+void LeftLowerLeg()
 {
    glPushMatrix();
    glRotatef(-90.0, 1.0, 0.0, 0.0);
@@ -113,7 +113,7 @@ void right_lower_leg()
 }
 
 void 
-display(void)
+Display(void)
 {
     glClear(GL_COLOR_BUFFER_BIT|GL_DEPTH_BUFFER_BIT);
     glLoadIdentity();
@@ -176,7 +176,7 @@ display(void)
 
 
 
-void mouse(int btn, int state, int x, int y)
+void OnMouseDown(int btn, int state, int x, int y)
 {
 	if(btn==GLUT_LEFT_BUTTON && state == GLUT_DOWN) 
         {
@@ -191,14 +191,14 @@ void mouse(int btn, int state, int x, int y)
         display();
 }
 
-void menu(int id)
+void MenuEvent(int id)
 {
    if(id <11 ) angle=id;
    if(id ==11 ) exit(0);
 }
 
 void 
-myReshape(int w, int h)
+OnReshape(int w, int h)
 {
     glViewport(0, 0, w, h);
     glMatrixMode(GL_PROJECTION);
@@ -213,7 +213,7 @@ myReshape(int w, int h)
     glLoadIdentity();
 }
 
-void myinit()
+void OnInit()
 {
         GLfloat mat_specular[]={1.0, 1.0, 1.0, 1.0};
         GLfloat mat_diffuse[]={1.0, 1.0, 1.0, 1.0};
