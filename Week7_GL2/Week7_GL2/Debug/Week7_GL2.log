@@ -1,0 +1,3 @@
+﻿  Main.cpp
+D:\WKU\3-1\OpenGL\Week7_GL2\Week7_GL2\Main.cpp(21,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+  Week7_GL2.vcxproj -> D:\WKU\3-1\OpenGL\Week7_GL2\Debug\Week7_GL2.exe

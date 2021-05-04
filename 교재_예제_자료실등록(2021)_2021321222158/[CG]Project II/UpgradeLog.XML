@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="kim">
+</Property><Property Name="솔루션 파일" Value="E:\[101]_완료도서\61_C134_OpenGL로 배우는 컴퓨터 그래픽스(개정판)\[03]_부속자료\강의보조자료\프로젝트 소스\[CG]Project II\kim.sln">
+</Property><Property Name="사용자 옵션 파일" Value="E:\[101]_완료도서\61_C134_OpenGL로 배우는 컴퓨터 그래픽스(개정판)\[03]_부속자료\강의보조자료\프로젝트 소스\[CG]Project II\kim.suo">
+</Property><Property Name="Date" Value="2012년 10월 18일 목요일">
+</Property><Property Name="Time" Value="오전 10:37">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="kim.sln" Description="파일을 E:\[101]_완료도서\61_C134_OpenGL로 배우는 컴퓨터 그래픽스(개정판)\[03]_부속자료\강의보조자료\프로젝트 소스\[CG]Project II\kim.sln.old(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="" Source="kim.suo" Description="파일을 E:\[101]_완료도서\61_C134_OpenGL로 배우는 컴퓨터 그래픽스(개정판)\[03]_부속자료\강의보조자료\프로젝트 소스\[CG]Project II\kim.suo.old(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="kim" Source="kim\kim.vcproj" Description="Converting project file 'E:\[101]_완료도서\61_C134_OpenGL로 배우는 컴퓨터 그래픽스(개정판)\[03]_부속자료\강의보조자료\프로젝트 소스\[CG]Project II\kim\kim.vcproj'.">
+</Event><Event ErrorLevel="1" Project="kim" Source="kim\kim.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="kim" Source="kim\kim.vcproj" Description="Done converting to new project file 'E:\[101]_완료도서\61_C134_OpenGL로 배우는 컴퓨터 그래픽스(개정판)\[03]_부속자료\강의보조자료\프로젝트 소스\[CG]Project II\kim\kim.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="kim" Source="kim\kim.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="kim.sln" Description="솔루션을 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="" Source="kim.sln" Description="Converted">
+</Event></UpgradeLog>

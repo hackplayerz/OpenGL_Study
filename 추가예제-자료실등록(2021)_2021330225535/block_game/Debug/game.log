@@ -1,0 +1,3 @@
+﻿  game.cpp
+game.cpp(35): warning C4838: 'double'에서 'float'(으)로의 변환에는 축소 변환이 필요합니다.
+  game.vcxproj -> D:\A. 컴퓨터그래픽스\2018\추가예제-자료실등록\block_game\Debug\game.exe

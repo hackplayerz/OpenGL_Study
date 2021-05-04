@@ -1,0 +1,101 @@
+﻿  load_objects.cpp
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\load_objects.cpp(45,49): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\load_objects.cpp(49,62): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\load_objects.cpp(52,34): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\load_objects.cpp(114,5): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\load_objects.cpp(143,3): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\load_objects.cpp(182,5): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\load_objects.cpp(211,3): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\load_objects.cpp(250,5): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\load_objects.cpp(279,3): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\load_objects.cpp(378,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\load_objects.cpp(384,3): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\load_objects.cpp(388,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\load_objects.cpp(392,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\load_objects.cpp(396,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\load_objects.cpp(401,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\load_objects.cpp(404,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\load_objects.cpp(407,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\load_objects.cpp(423,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\load_objects.cpp(428,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\load_objects.cpp(431,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\load_objects.cpp(434,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\load_objects.cpp(462,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\load_objects.cpp(468,3): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\load_objects.cpp(472,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\load_objects.cpp(476,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\load_objects.cpp(480,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\load_objects.cpp(485,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\load_objects.cpp(488,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\load_objects.cpp(491,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\load_objects.cpp(507,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\load_objects.cpp(512,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\load_objects.cpp(515,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\load_objects.cpp(518,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\load_objects.cpp(546,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\load_objects.cpp(552,3): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\load_objects.cpp(556,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\load_objects.cpp(560,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\load_objects.cpp(564,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\load_objects.cpp(569,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\load_objects.cpp(572,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\load_objects.cpp(575,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\load_objects.cpp(591,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\load_objects.cpp(596,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\load_objects.cpp(599,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\load_objects.cpp(602,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  readbmp.cpp
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\readbmp.cpp(341,19): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\readbmp.cpp(359,19): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\readbmp.cpp(373,19): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\readbmp.cpp(380,19): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\readbmp.cpp(392,19): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\readbmp.cpp(399,19): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\readbmp.cpp(406,19): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\readbmp.cpp(413,19): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\readbmp.cpp(420,19): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\readbmp.cpp(427,19): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\readbmp.cpp(434,19): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\readbmp.cpp(441,19): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\readbmp.cpp(448,19): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\readbmp.cpp(455,19): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\readbmp.cpp(462,19): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\readbmp.cpp(469,19): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\readbmp.cpp(476,19): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\readbmp.cpp(483,19): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\readbmp.cpp(1401,10): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\readbmp.cpp(1401,10): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 0개가 제공되었습니다.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\readbmp.cpp(1401,10): message : 누락된 variadic 인수 1이(가) 서식 문자열 '%s'에 필요합니다.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\readbmp.cpp(1411,17): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\readbmp.cpp(1412,18): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\readbmp.cpp(1421,10): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\readbmp.cpp(1421,10): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 0개가 제공되었습니다.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\readbmp.cpp(1421,10): message : 누락된 variadic 인수 1이(가) 서식 문자열 '%d'에 필요합니다.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\readbmp.cpp(1400,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  robot.cpp
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\robot.cpp(86,44): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\robot.cpp(96,62): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\robot.cpp(97,58): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\robot.cpp(98,56): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\robot.cpp(99,34): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\robot.cpp(101,57): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\robot.cpp(102,57): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\robot.cpp(103,58): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\robot.cpp(104,36): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\robot.cpp(107,48): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\robot.cpp(108,57): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\robot.cpp(109,36): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\robot.cpp(111,58): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\robot.cpp(112,57): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\robot.cpp(113,57): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\robot.cpp(114,36): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\robot.cpp(116,58): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\robot.cpp(117,57): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\robot.cpp(118,57): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\robot.cpp(119,36): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\robot.cpp(121,49): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\robot.cpp(122,48): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\robot.cpp(123,48): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\robot.cpp(146,48): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+  코드를 생성하고 있습니다...
+  robot.vcxproj -> D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\Debug\robot.exe

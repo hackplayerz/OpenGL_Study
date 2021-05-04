@@ -1,0 +1,6 @@
+﻿  light_fixed.cpp
+light_fixed.cpp(6): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+light_fixed.cpp(7): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+light_fixed.cpp(10): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+light_fixed.cpp(11): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+  light_fixed.vcxproj -> D:\A. 컴퓨터그래픽스\2018\추가예제-자료실등록\light_fixed\Debug\light_fixed.exe

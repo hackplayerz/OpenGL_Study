@@ -1,0 +1,2 @@
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\Debug\robot.exe
+D:\WKU\3-1\OpenGL\추가예제-자료실등록(2021)_2021330225535\3dmax_robot\Debug\robot.pdb

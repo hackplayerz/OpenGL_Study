@@ -1,0 +1,31 @@
+﻿  texture_texgen_2.cpp
+LINK : warning LNK4075: '/INCREMENTAL'이(가) '/OPT:ICF' 사양으로 인해 무시됩니다.
+opengl32.lib(OPENGL32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+opengl32.lib(OPENGL32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+opengl32.lib(OPENGL32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+opengl32.lib(OPENGL32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+opengl32.lib(OPENGL32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+opengl32.lib(OPENGL32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+opengl32.lib(OPENGL32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+opengl32.lib(OPENGL32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+opengl32.lib(OPENGL32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+opengl32.lib(OPENGL32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+opengl32.lib(OPENGL32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+opengl32.lib(OPENGL32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+opengl32.lib(OPENGL32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+opengl32.lib(OPENGL32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+opengl32.lib(OPENGL32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+opengl32.lib(OPENGL32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+opengl32.lib(OPENGL32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+glu32.lib(GLU32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+glu32.lib(GLU32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+glut32.lib(glut32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+glut32.lib(glut32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+glut32.lib(glut32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+glut32.lib(glut32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+glut32.lib(glut32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+glut32.lib(glut32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+glut32.lib(glut32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+glut32.lib(glut32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+glut32.lib(glut32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+D:\A. 컴퓨터그래픽스\2019\추가예제\texture_texgen_2\Release\texture_texgen_2.exe : fatal error LNK1281: SAFESEH 이미지를 생성할 수 없습니다.

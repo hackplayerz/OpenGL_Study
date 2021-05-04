@@ -1,0 +1,65 @@
+﻿  readbmp.cpp
+readbmp.cpp(341): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+readbmp.cpp(359): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+readbmp.cpp(373): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+readbmp.cpp(380): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+readbmp.cpp(392): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+readbmp.cpp(399): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+readbmp.cpp(406): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+readbmp.cpp(413): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+readbmp.cpp(420): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+readbmp.cpp(427): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+readbmp.cpp(434): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+readbmp.cpp(441): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+readbmp.cpp(448): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+readbmp.cpp(455): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+readbmp.cpp(462): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+readbmp.cpp(469): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+readbmp.cpp(476): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+readbmp.cpp(483): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+readbmp.cpp(1411): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+readbmp.cpp(1412): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+readbmp.cpp(1400): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+readbmp.cpp(1401): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  readbmp.cpp(1401): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 0개가 제공되었습니다.
+  readbmp.cpp(1401): note: 누락된 variadic 인수 1이(가) 서식 문자열 '%s'에 필요합니다.
+readbmp.cpp(1421): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  readbmp.cpp(1421): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 0개가 제공되었습니다.
+  readbmp.cpp(1421): note: 누락된 variadic 인수 1이(가) 서식 문자열 '%d'에 필요합니다.
+  perspective.cpp
+perspective.cpp(31): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+perspective.cpp(35): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+perspective.cpp(38): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+perspective.cpp(299): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+perspective.cpp(305): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1195): note: 'fscanf' 선언을 참조하십시오.
+perspective.cpp(309): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1195): note: 'fscanf' 선언을 참조하십시오.
+perspective.cpp(313): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1195): note: 'fscanf' 선언을 참조하십시오.
+perspective.cpp(323): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1195): note: 'fscanf' 선언을 참조하십시오.
+perspective.cpp(327): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1195): note: 'fscanf' 선언을 참조하십시오.
+perspective.cpp(334): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 7의 형식이 'float *'입니다.
+perspective.cpp(334): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1195): note: 'fscanf' 선언을 참조하십시오.
+perspective.cpp(354): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1195): note: 'fscanf' 선언을 참조하십시오.
+perspective.cpp(359): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1195): note: 'fscanf' 선언을 참조하십시오.
+perspective.cpp(365): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1195): note: 'fscanf' 선언을 참조하십시오.
+perspective.cpp(372): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1195): note: 'fscanf' 선언을 참조하십시오.
+perspective.cpp(287): warning C4101: 'kw3' :참조되지 않은 지역 변수입니다.
+perspective.cpp(287): warning C4101: 'kw1' :참조되지 않은 지역 변수입니다.
+perspective.cpp(293): warning C4101: 'ptr' :참조되지 않은 지역 변수입니다.
+perspective.cpp(289): warning C4101: 'n_faces' :참조되지 않은 지역 변수입니다.
+perspective.cpp(290): warning C4101: 'n' :참조되지 않은 지역 변수입니다.
+perspective.cpp(287): warning C4101: 'kw2' :참조되지 않은 지역 변수입니다.
+perspective.cpp(289): warning C4101: 'n_vertices' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다...
+  perspective.vcxproj -> D:\A. 컴퓨터그래픽스\2018\추가예제-자료실등록\3dmax_face_without_texture\Debug\perspective.exe
